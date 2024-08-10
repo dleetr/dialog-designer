@@ -5,9 +5,9 @@
 Single Page Drag/Drop application to create AEM Dialogs.
 
 ## Installation / Setup
-
+**WARN: Deps are updated, possibly broken. Tell npm to shutup and install it all**
 ```
-npm i
+npm i --force
 ```
 
 ```
